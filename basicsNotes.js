@@ -64,8 +64,10 @@ Branch 1
 Branch 2
 
 Git clone- grab a remote repo and make your own local copy
+Can create new branches from local to remote if you push to a branch that doesn't exist
 
 VIM- press i to make changes (insert mode) similar to nano, emac
 VIM is also modal can switch between edit/save
 :wq (write quit)
+VIM good to learn since it is standard generally
 */
