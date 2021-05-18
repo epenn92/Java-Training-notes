@@ -64,6 +64,8 @@ Branch 1
 Branch 2
 
 Git clone- grab a remote repo and make your own local copy
+Team workflow for git with teams is usually git add, git pull so you don't have any merge conflicts locally first b4 you push to a remote repository shared by team members, if you push without verifying you could cause issues w/ team members then have to revert etc
+
 
 VIM- press i to make changes (insert mode) similar to nano, emac
 VIM is also modal can switch between edit/save
