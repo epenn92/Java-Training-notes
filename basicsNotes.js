@@ -216,4 +216,8 @@ Method Invocation- calling method and matching parameters
 
 
 Static Keyword, static means the variable/method belongs to the class instead of each obj of the class, variables w/ static reside in static scope
+
+//var variables in JS were assigned to global objects, let/const made to make more localized variables
+
+test
 */
